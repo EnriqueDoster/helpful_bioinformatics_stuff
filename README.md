@@ -1,4 +1,3 @@
-# helpful_bioinformatics_stuff
 <div class="nav">
 
 ## Goals for this repository
