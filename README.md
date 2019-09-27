@@ -11,8 +11,11 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
+- [Research groups](#research-teams)
+- [Important papers](#important-papers)
 - [Tools for your computer](#computer-tools)
 - [Cheatsheets](#cheat-sheets)
+- [Tutorials](#tutorials)
 - [MEGARes](#megares)
 - [AMR++](#amrplusplus)
   - [Pipeline overview](#pipeline-overview)
@@ -26,6 +29,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
         - [Analyzing SNPs](#analyzing-snp)
 - [Statistical analysis](#stats)
   - [Overview](#stat-overview)
+- [Whole-genome-sequencing](#WGS)
 
 
 </div>
@@ -33,7 +37,35 @@ Have a tool or resource that you love and think would be helpful to others? Just
 <main>
       
       
-      
+<article id="research-teams">
+  
+## Research groups
+
+
+* [MEGlab](http://megares.meglab.org/) - "Our international multidisciplinary group of scientists and educators is addressing the issues of antimicrobial resistance (AMR) and microbial ecology in agriculture through research, outreach, and education. By characterizing risks related to AMR and microbial ecology, our center will identify agricultural production practices that are harmful and can be avoided, while also identifying and promoting production practices and interventions that are beneficial or do no harm to the ecosystem or public health. This will allow society to realize “sustainable intensification” of agriculture."
+* [Noyes Lab](https://www.thenoyeslab.org/) - "We are a curious, driven and genuine group of individuals who unite around the common goal of scientific discovery. We cherish diversity -- of thoughts, backgrounds, experiences, skills and opinions.  We encourage (even relish!) respectful debate, and we value each others' quirks. We believe that livestock animals are an essential and valuable part of our local and global society.  We eschew the notion that livestock production is inherently at odds with human and environmental health.  And we use scientific discovery to advance livestock production in a "win-win" manner --  to benefit animals, humans and the planet. "
+
+- Other groups with great websites
+
+  
+</article>
+
+
+
+<article id="important-papers">
+  
+## Important Manuscripts
+
+- Data analysis
+  * [Consistent and correctable bias in metagenomic sequencing experiments](https://elifesciences.org/articles/46923) - Important biases in metagenomic sequencing projects
+  
+</article>
+
+
+
+
+
+
 <article id="computer-tools">
   
 ## Tools for your computer
@@ -54,6 +86,20 @@ Have a tool or resource that you love and think would be helpful to others? Just
 * [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
 
 </article>
+
+
+
+
+<article id="tutorials">
+  
+## Tutorials
+
+- R packages
+  * [Practical ggplot](https://wilkelab.org/practicalgg/) - Good tutorial for ussing ggplot to create a variety of figures
+
+</article>
+
+
 
 
 
@@ -93,6 +139,19 @@ Have a tool or resource that you love and think would be helpful to others? Just
 </article>
 
 
+
+
+
+
+<article id="WGS">
+  
+## Whole-genome-sequencing
+
+- Useful papers
+  * [Comparing Genomic Variant Identification Methods](https://www.biorxiv.org/content/10.1101/733642v1) - Manuscript "Genomic variant identification methods alter Mycobacterium tuberculosis transmission inference"
+  * [Population structure in time-scaled phylogenies](https://www.biorxiv.org/content/10.1101/704528v1) - Identification of hidden population structure in time-scaled phylogenies
+
+</article>
 
 
 
