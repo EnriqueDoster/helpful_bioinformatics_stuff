@@ -95,7 +95,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 ## Tutorials
 
 - R packages
-  * [Practical ggplot](https://wilkelab.org/practicalgg/) - Good tutorial for ussing ggplot to create a variety of figures
+  * [Practical ggplot](https://wilkelab.org/practicalgg/) - Good tutorial for using ggplot to create a variety of figures
 
 </article>
 
@@ -135,6 +135,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 ## Statistical analysis
 
 * [GustaME](https://sites.google.com/site/mb3gustame/) - Great resource that provides an overview to many common statistical methods for bioinformatics.
+* [Ordination overview](http://ordination.okstate.edu/overview.htm) - Overview of various ordination method with good descriptions.
 
 </article>
 
