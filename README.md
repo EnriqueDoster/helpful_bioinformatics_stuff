@@ -12,7 +12,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 ## Table of Contents
 
 - [Research groups](#research-teams)
-- [Important papers](#important-papers)
+- [Important Manuscripts and Useful Resources](#important-papers)
 - [Tools for your computer](#computer-tools)
 - [Cheatsheets](#cheat-sheets)
 - [Tutorials](#tutorials)
@@ -54,10 +54,14 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="important-papers">
   
-## Important Manuscripts
+## Important Manuscripts and Useful Resources
 
 - Data analysis
   * [Consistent and correctable bias in metagenomic sequencing experiments](https://elifesciences.org/articles/46923) - Important biases in metagenomic sequencing projects
+  
+- Misc. resources
+  * [Micro Binfie Podcast](https://soundcloud.com/microbinfie) - New podcast focused on microbial bioinformatics
+ 
   
 </article>
 
