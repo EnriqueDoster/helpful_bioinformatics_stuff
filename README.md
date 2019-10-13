@@ -46,6 +46,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 * [Noyes Lab](https://www.thenoyeslab.org/) - "We are a curious, driven and genuine group of individuals who unite around the common goal of scientific discovery. We cherish diversity -- of thoughts, backgrounds, experiences, skills and opinions.  We encourage (even relish!) respectful debate, and we value each others' quirks. We believe that livestock animals are an essential and valuable part of our local and global society.  We eschew the notion that livestock production is inherently at odds with human and environmental health.  And we use scientific discovery to advance livestock production in a "win-win" manner --  to benefit animals, humans and the planet. "
 
 - Other groups with great websites
+
 * [Huttenhower Lab](https://huttenhower.sph.harvard.edu/) - "My group includes a range of expertise on genomic data, biological network analysis, and bioinformatic methodology. We're interested both in developing new computational methods, particularly for microbial community analysis, and in applying these to the study of metagenomics, individual microbes and pathogens, and the human genome. Whenever possible, all of our studies are accompanied by tools to make the resulting methodology available to the community. Many of these goals are shared by other members of the Biological Sciences in Public Health program, the Broad Institute, and the MiRiBA consortium."
 
   
