@@ -66,6 +66,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   
 - Misc. resources
   * [Micro Binfie Podcast](https://soundcloud.com/microbinfie) - New podcast focused on microbial bioinformatics
+  * [Early Career Researchers](https://ecrcentral.org/) - Resources for early career scientists.
  
   
 </article>
