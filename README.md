@@ -9,179 +9,76 @@
 ## Contribute
 Have a tool or resource that you love and think would be helpful to others? Just send a Pull Request with the details!
 
-## Table of Contents
 
-- [Research groups](#research-teams)
-- [Important Manuscripts and Useful Resources](#important-papers)
-- [Tools for your computer](#computer-tools)
-- [Cheatsheets](#cheat-sheets)
-- [Tutorials](#tutorials)
-- [MEGARes](#megares)
-- [AMR++](#amrplusplus)
-  - [Pipeline overview](#pipeline-overview)
-  - [QC trimming](#qc-trimming)
-  - [Host filtering](#host-filtering)
-  - [Resistome analysis](#resistome-analysis)
-    - [Alignment to MEGARes](#alignment-megares)
-    - [Filtering counts](#filtering-counts)
-    - [Genes that require SNP confirmation](#snp-confirmation)
-    - [Resistance Gene Identifier](#rgi)
-    - [Analyzing SNPs](#analyzing-snp)
-- [Statistical analysis](#stats)
-  - [Overview](#stat-overview)
-- [Whole-genome-sequencing](#WGS)
+# Brief overview of bioinformatic analyses
 
+### Disclaimer: The following guide is meant as a general overview of we, the Microbial Ecology Group, does to analyze metagenomic sequencing samples. We attempt to keep up with the latest in “best practices”, but these analytic tools continue to improve and the correct combination of tools and statistical methods is in perpetual debate. Please let us know if you have any questions, require clarification, or want to help us improve our methods!
 
-</div>
+## Overview
+---
+[Acquiring sequencing data](#acquiring-sequencing-data)
 
-<main>
-      
-      
-<article id="research-teams">
-  
-## Research groups
+[Bioinformatic analyses](#bioinformatic-analysis)
+
+[Statistical analysis](#statistical-analysis)
+
+* [Count normalization](#count-normalization)
+
+* [Alpha diversity](#alpha-diversity)
+
+* [Differential feature abundance](#differential-feature-abundance)
+
+* [Ordination](#ordination)
+
+* [Heatmaps](#heatmaps)
 
 
-* [MEGlab](http://megares.meglab.org/) - "Our international multidisciplinary group of scientists and educators is addressing the issues of antimicrobial resistance (AMR) and microbial ecology in agriculture through research, outreach, and education. By characterizing risks related to AMR and microbial ecology, our center will identify agricultural production practices that are harmful and can be avoided, while also identifying and promoting production practices and interventions that are beneficial or do no harm to the ecosystem or public health. This will allow society to realize “sustainable intensification” of agriculture."
-* [Noyes Lab](https://www.thenoyeslab.org/) - "We are a curious, driven and genuine group of individuals who unite around the common goal of scientific discovery. We cherish diversity -- of thoughts, backgrounds, experiences, skills and opinions.  We encourage (even relish!) respectful debate, and we value each others' quirks. We believe that livestock animals are an essential and valuable part of our local and global society.  We eschew the notion that livestock production is inherently at odds with human and environmental health.  And we use scientific discovery to advance livestock production in a "win-win" manner --  to benefit animals, humans and the planet. "
+## Acquiring sequencing data
+---
+* Sample collection
+* DNA extraction
+* Library preparation
+* Metagenomic sequencing
+  * DNA libraries are sequenced and samples must be demultiplexed
 
-- Other groups with great websites
-
-* [Huttenhower Lab](https://huttenhower.sph.harvard.edu/) - "My group includes a range of expertise on genomic data, biological network analysis, and bioinformatic methodology. We're interested both in developing new computational methods, particularly for microbial community analysis, and in applying these to the study of metagenomics, individual microbes and pathogens, and the human genome. Whenever possible, all of our studies are accompanied by tools to make the resulting methodology available to the community. Many of these goals are shared by other members of the Biological Sciences in Public Health program, the Broad Institute, and the MiRiBA consortium."
-
-  
-</article>
-
-
-
-<article id="important-papers">
-  
-## Important Manuscripts and Useful Resources
-
-- Data analysis
-  * [Consistent and correctable bias in metagenomic sequencing experiments](https://elifesciences.org/articles/46923) - Important biases in metagenomic sequencing projects
-  
-- Writing manuscripts
-  * [Science Forum: Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://elifesciences.org/articles/48175?utm_source=Nature+Briefing) - Useful manuscript writing tips
-  
-- Misc. resources
-  * [Micro Binfie Podcast](https://soundcloud.com/microbinfie) - New podcast focused on microbial bioinformatics
-  * [Early Career Researchers](https://ecrcentral.org/) - Resources for early career scientists.
- 
-  
-</article>
+## Bioinformatic analysis
+---
+* Bioinformatic analyses
 
 
-
-
-
-
-<article id="computer-tools">
-  
-## Tools for your computer
-
-- Text editors
-  * [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration. 
-  
-- R-programming
-  * [Export figure to vector](https://cran.r-project.org/web/packages/export/export.pdf) - command in R that converts R graphics (including ggplot graphics) into PPT as *vector drawings*
-  * [Plotly](https://plot.ly/) - Tool for making 3D R figures
-  
-- Other visualization tools
-  * [Tableau](https://www.tableau.com/academic/students) - Great software for creating figures using a drag-and-drop GUI.
-  
-  
-</article>
-
-
-
-
-      
-<article id="cheat-sheets">
-  
-## Cheatsheets
-
-* [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
-
-</article>
-
-
-
-
-<article id="tutorials">
-  
-## Tutorials
-
-- Ideas for presentations
-  * [Pinterest Poster Design examples](https://www.pinterest.com/doipathompong/scientific-poster-design/) - "Collection of nice posters on pinterest."
-- R programming tutorials
-  * [Practical ggplot](https://wilkelab.org/practicalgg/) - Good tutorial for using ggplot to create a variety of figures
-  * [R Graph Gallery](https://www.r-graph-gallery.com/all-graphs.html) - Gallery of various plots made in R and the code used to create them.
-  * [Top 50 ggplot2 visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - "This is part 3 of a three part tutorial on ggplot2, an aesthetically pleasing (and very popular) graphics framework in R. This tutorial is primarily geared towards those having some basic knowledge of the R programming language and want to make complex and nice looking charts with R ggplot2."
-
-</article>
-
-
-
-
-
-
-<article id="MEGARes">
-
-## MEGARes
-
-* [MEGARes](http://megares.meglab.org/) - The MEGARes database contains sequence data for approximately 8,000 hand-curated antimicrobial resistance genes accompanied by an annotation structure that is optimized for use with high throughput sequencing. The acyclical annotation graph of MEGARes allows for accurate, count-based, hierarchical statistical analysis of resistance at the population level, much like microbiome analysis, and is also designed to be used as a training database for the creation of statistical classifiers.
-
-</article>
-
-
-
-
-
-
-<article id="amrplusplus">
-  
-## AMR++
-
-* [AMR++ v2.0](http://megares.meglab.org/amrplusplus/latest/html/v2/index.html) - The Microbial Ecology Group's bioinformatic pipeline for microbiome and resistome analysis.
-
-</article>
-
-
-
-
-
-
-<article id="stats">
-  
 ## Statistical analysis
+---
 
-* [GustaME](https://sites.google.com/site/mb3gustame/) - Great resource that provides an overview to many common statistical methods for bioinformatics.
-* [Ordination overview](http://ordination.okstate.edu/overview.htm) - Overview of various ordination method with good descriptions.
+* Statistical analysis is undoubtedly the most complex component required for characterizing metagenomic sequencing samples. We adopt a lot of the techniques developed for ecology to analyze the multivariate data representing the microbiome and resistome. 
 
-</article>
+* We use the R programming software with various R software packages and you can see the main code we use at this repository (https://github.com/EnriqueDoster/MEG_R_metagenomic_analysis).
+  * Diversity metrics and ordination : vegan
+  * Count normalization and ZIG model: metagenomeSeq
+  * data handling and manipulation: data.table
+  * plotting : ggplot2
+  * handling Qiime2 results and unifrac distances: phyloseq
 
+### Count normalization
 
+* The count of classified reads will first need to normalized to account for differences in sequencing performance between samples. There are many ways to normalize counts and we use “Cumulative sum scaling”(CSS) developed by Paulson et al 2013 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4010126/).
+* Then, the CSS-normalized counts are used for all the following methods of summarizing metagenomic samples (and check out this helpful website https://mb3is.megx.net/gustame/home):
 
+### Alpha diversity
 
-
-
-<article id="WGS">
-  
-## Whole-genome-sequencing
-
-- Useful papers
-  * [Comparing Genomic Variant Identification Methods](https://www.biorxiv.org/content/10.1101/733642v1) - Manuscript "Genomic variant identification methods alter Mycobacterium tuberculosis transmission inference"
-  * [Population structure in time-scaled phylogenies](https://www.biorxiv.org/content/10.1101/704528v1) - Identification of hidden population structure in time-scaled phylogenies
-
-</article>
-
-
-
+* Alpha diversity
+  * Indices like “Richness”, “Shannon’s index” or "Simpson's index" to summarize the microbiome/resistome with a single value that represents the unique number of features and how evenly distributed the counts were, respectively.
+* Plotting alpha diversity values with boxplots.
 
 
+### Differential feature abundance
 
+* Feature abundance in metagenomic sequencing projects
+  * Comparing relative abundances is troublesome because of issues inherent to compositional data (ie. the proportion of a feature is directly affected by changes in proportion of other features) and because count tables contain many zeroes (sparse). 
+      * Therefore, we use a “Zero-inflated Gaussian model” (ZIG) that allows us to combine two different distributions and fit a model that better represents metagenomic count data. Log fold changes in abundance are estimated and the Benjamini-Hochberg method is employed to adjust p-values for multiple testing.
+        * Take a look at the “stats” directory and look for the file named “Group_Microbiome_Phylum_GroupNorm-GroupProb_Model_Contrasts.csv”.
+         * These results have to be interpreted carefully because low abundance features will often be significantly different between sample groups. In combination with your knowledge of which features are most abundant in your samples, pick a threshold value for “Avg. Expression” and report everything above that threshold. For example, you might say something like out of 27 compared, X phyla had average expressions > 1 and X were significantly different between sample groups (p-value < 0.05).
 
+### Ordination
 
-
-
+* Ordination
+  * Non-metric multidimensional scaling
