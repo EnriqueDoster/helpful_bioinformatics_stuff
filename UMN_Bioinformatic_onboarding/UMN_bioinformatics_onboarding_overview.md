@@ -5,7 +5,7 @@
        * First step: Server log-on and navigation.
          * Objectives:
          * Resources:
-           * Tutorial of basic commands (cd, ls, pwd, htop)
+           * UMN tutorials of basic commands (cd, ls, pwd, htop)
            * Videos from codeacademy or free educational account from data.camp? (could also work for R)
          * Deliverable: File that contains:
            * PATH to a kraken database
