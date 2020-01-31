@@ -14,5 +14,5 @@ Just send a Pull Request with the details!
 ## Contents
 ---
 
-* UMN bioinformatics onboarding
+* [UMN bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/UMN_Bioinformatic_onboarding/UMN_bioinformatics_onboarding_overview.md)
 * General overview
