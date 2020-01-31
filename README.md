@@ -16,10 +16,18 @@ Just send a Pull Request with the details!
 
 * [UMN bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/UMN_Bioinformatic_onboarding/UMN_bioinformatics_onboarding_overview.md)
   * Level 1 - Core requirements for lab members
-    * First step: Server log-on and navigation.
-    * Second step: Working with files
+    * First Quest: Server log-on and navigation.
+    * Second Quest: Working with files (creating, editing, downloading)
   * Level 2 - Running AMR++
-    * First step: Using MSI modules, screen
+    * First Quest: Using MSI modules to run interactive jobs
+    * Second Quest: Using screen
+    * Third Quest: Submitting to the mesabi queue
   * Level 3 - Running other tools/making custom nextflow pipelines
-  * Level 4 - Coding your own software 
+    * First Quest: Installing tools using conda
+    * Second Quest: Install shared tool
+    * Third Quest: Create nextflow pipeline to use both tools
+  * Level 4 - Coding your own software (Becoming a hero)
+    * First Quest: Identify your weapon (coding language)
+    * Second Quest: Find and help a civilian in distress (bioinformatic challenge)
+    * Third Quest: Finish your quest by documenting the whole story into a pipeline
 * General overview
