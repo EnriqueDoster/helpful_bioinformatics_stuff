@@ -15,4 +15,11 @@ Just send a Pull Request with the details!
 ---
 
 * [UMN bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/UMN_Bioinformatic_onboarding/UMN_bioinformatics_onboarding_overview.md)
+  * Level 1 - Core requirements for lab members
+    * First step: Server log-on and navigation.
+    * Second step: Working with files
+  * Level 2 - Running AMR++
+    * First step: Using MSI modules, screen
+  * Level 3 - Running other tools/making custom nextflow pipelines
+  * Level 4 - Coding your own software 
 * General overview
