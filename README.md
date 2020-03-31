@@ -14,7 +14,7 @@ Just send a Pull Request with the details!
 ## Contents
 ---
 
-* [UMN bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/UMN_Bioinformatic_onboarding/UMN_bioinformatics_onboarding_overview.md)
+* [Bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/UMN_Bioinformatic_onboarding/UMN_bioinformatics_onboarding_overview.md)
   * Level 1 - Recruit training (Core requirements for lab members)
     * First Quest: Explore the town and surrounding environment (Server log-on and navigation.)
     * Second Quest: Gather and prepare your supplies (Viewing/managing files)
