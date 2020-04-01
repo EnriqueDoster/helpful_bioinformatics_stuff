@@ -1,3 +1,5 @@
+
+# Table of contents
 [Acquiring sequencing data](#acquiring-sequencing-data)
 
 [Bioinformatic analyses](#bioinformatic-analysis)
@@ -25,8 +27,13 @@
 
 ## Bioinformatic analysis
 ---
-* Bioinformatic analyses
-
+* Read quality filtering
+* Host sequence removal
+* Alignment to MEGARes
+  * "resistome"
+* Microbiome analysis
+  * Shotgun metagenomics - Kraken2
+  * 16S rRNA sequencing - Qiime2
 
 ## Statistical analysis
 ---
