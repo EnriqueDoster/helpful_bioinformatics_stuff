@@ -1,5 +1,5 @@
 
-# [Bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Bioinformatic_onboarding/Bioinformatics_onboarding_lesson_overview.md)
+# [Bioinformatics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Bioinformatics_onboarding/Bioinformatics_onboarding_lesson_overview.md)
 * Level 1 - Recruit training (Core requirements for lab members)
   * First Quest: Explore the town and surrounding environment (Server log-on and navigation.)
   * Second Quest: Gather and prepare your supplies (Viewing/managing files)
@@ -17,11 +17,11 @@
   * Second Quest: Find and help a civilian in distress (bioinformatic challenge)
   * Third Quest: Finish your quest by documenting the whole story into a pipeline
 
-# Statistics onboarding
-* Level 1 - Core requirements
-  * R and Rstudio basic usage
-  * Read-in data
-  * Summarize file data
+# [Statistics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_overview.md)
+* [Level 1](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) - Core requirements
+  * Describe R, RStudio, and Environment
+  * Use RStudio GUI to test basic R functionality
+  * Read-in data and provide basic summary information
 * Level 2 - Beginner
   * Diversity indices
   * Basic summary statistics
