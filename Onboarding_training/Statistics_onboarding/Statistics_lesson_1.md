@@ -19,9 +19,9 @@ Deliverables:
 Additional resources:
   * [R programming coursera course](https://www.coursera.org/learn/r-programming)
 
----
-# Step 1 - Download and install R/Rstudio
 
+# Step 1 - Download and install R/Rstudio
+---
 ## What is R and why do we use it?
 ["R"](https://www.r-project.org/about.html) is an open-source programming language that we use for analyzing microbiome and resistome count matrices.
 
@@ -31,8 +31,9 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
 * Install R and R studio on your computer following [these instructions](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu).
 
 
----
+
 # Step 2 - Install R packages
+---
 ## Packages greatly enhance R functionality for statistical analysis
 
 ## Task
@@ -41,17 +42,16 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
   * ggplot2
   * etc.
 
----
 # Step 3 - Introduction to R programming
 ## R scripts and "projects"
-
+---
 ## Task
 * Create a new R project called "Lesson 1 project" and follow the instructions in the script (XXXX) to familiarize yourself with basic R functions.
 
----
+
 # Step 4 - Reading-in data
 ## Getting microbiome and resistome results into R
-
+---
 ## Task
 * Download the following three files:
   * sample_metadata.csv
