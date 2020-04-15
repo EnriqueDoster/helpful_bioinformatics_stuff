@@ -11,12 +11,13 @@ Tasks:
 * Step 4: Learn how to read-in data to R and provide general information about files.
 
 Deliverables:
-* Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R.
-* Students must provide:
+* Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R and submit an email with:
   * The number of rows and columns for each file
   * A short description of what kind of samples are being analyzed
   * A short description of what the taxonomy file contains and how it relates to the count table.
 
+Additional resources:
+  * [R programming coursera course](https://www.coursera.org/learn/r-programming)
 
 ---
 # Step 1 - Download and install R/Rstudio
@@ -32,14 +33,31 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
 
 ---
 # Step 2 - Install R packages
+## Packages greatly enhance R functionality for statistical analysis
 
-
+## Task
+* Learn how to install R packages with the following resource (XXXX) and succesfully install all of the following packages in your environment:
+  * vegan
+  * ggplot2
+  * etc.
 
 ---
-# Step 3 - Introduction to R
+# Step 3 - Introduction to R programming
+## R scripts and "projects"
 
-
-
+## Task
+* Create a new R project called "Lesson 1 project" and follow the instructions in the script (XXXX) to familiarize yourself with basic R functions.
 
 ---
 # Step 4 - Reading-in data
+## Getting microbiome and resistome results into R
+
+## Task
+* Download the following three files:
+  * sample_metadata.csv
+  * AMR_annotations.csv
+  * AMR_count_matrix.csv
+* Follow instructions in the R script, (XXXX), to load all three files and calculate summary statistics for each file.
+* Turn in file with results.
+
+
