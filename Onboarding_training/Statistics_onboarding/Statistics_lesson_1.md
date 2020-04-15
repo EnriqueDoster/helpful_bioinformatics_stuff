@@ -31,11 +31,10 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
 * Install R and R studio on your computer following [these instructions](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu).
 
 
-
 # Step 2 - Install R packages
 ---
 ## Packages greatly enhance R functionality for statistical analysis
-
+Description here
 ## Task
 * Learn how to install R packages with the following resource (XXXX) and succesfully install all of the following packages in your environment:
   * vegan
@@ -43,8 +42,9 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
   * etc.
 
 # Step 3 - Introduction to R programming
-## R scripts and "projects"
 ---
+## R scripts and "projects"
+Description here
 ## Task
 * Create a new R project called "Lesson 1 project" and follow the instructions in the script (XXXX) to familiarize yourself with basic R functions.
 
