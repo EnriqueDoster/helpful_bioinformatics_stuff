@@ -1,4 +1,5 @@
 # Lesson 1 - "Getting set up"
+---
 Learning objectives
 * Describe R, RStudio, and Environment
 * Use RStudio GUI to test basic R functionality
