@@ -22,7 +22,6 @@ Additional resources:
   * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
 
 ## Step 1 - Download and install R/Rstudio
----
 ### What is R and why do we use it?
 ["R"](https://www.r-project.org/about.html) is an open-source programming language that we use for analyzing microbiome and resistome count matrices.
 
@@ -33,7 +32,6 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
 
 
 ## Step 2 - Install R packages
----
 ### Packages greatly enhance R functionality for statistical analysis
 Description here
 ### Task
@@ -43,7 +41,6 @@ Description here
   * etc.
 
 ## Step 3 - Introduction to R programming
----
 ### R scripts and "projects"
 Description here
 ### Task
@@ -53,7 +50,6 @@ Description here
 
 
 ## Step 4 - Reading-in data
----
 ### Getting microbiome and resistome results into R
 
 ### Task
