@@ -21,41 +21,42 @@ Additional resources:
   * [R programming coursera course](https://www.coursera.org/learn/r-programming)
   * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
 
-# Step 1 - Download and install R/Rstudio
+## Step 1 - Download and install R/Rstudio
 ---
-## What is R and why do we use it?
+### What is R and why do we use it?
 ["R"](https://www.r-project.org/about.html) is an open-source programming language that we use for analyzing microbiome and resistome count matrices.
 
 To facilitate the use of R we recommend using the GUI software, [RStudio](https://rstudio.com/).
 
-## Task
+### Task
 * Install R and R studio on your computer following [these instructions](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu).
 
 
-# Step 2 - Install R packages
+## Step 2 - Install R packages
 ---
-## Packages greatly enhance R functionality for statistical analysis
+### Packages greatly enhance R functionality for statistical analysis
 Description here
-## Task
+### Task
 * Learn how to install R packages with the following resource (XXXX) and succesfully install all of the following packages in your environment:
   * vegan
   * ggplot2
   * etc.
 
-# Step 3 - Introduction to R programming
+## Step 3 - Introduction to R programming
 ---
-## R scripts and "projects"
+### R scripts and "projects"
 Description here
-## Task
+### Task
 * [Download this github repository](https://github.com/EnriqueDoster/MEG_onboarding_lessons)
 * Open Rstudio and set working directory to the newly downloaded directory, "MEG_onboarding_lessons"
 * Create a new R project called "Lesson 1 project" and follow the instructions in the script (XXXX) to familiarize yourself with basic R functions.
 
 
-# Step 4 - Reading-in data
-## Getting microbiome and resistome results into R
+## Step 4 - Reading-in data
 ---
-## Task
+### Getting microbiome and resistome results into R
+
+### Task
 * Download the following three files:
   * sample_metadata.csv
   * AMR_annotations.csv
