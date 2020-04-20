@@ -19,7 +19,7 @@ Deliverables:
 
 Additional resources:
   * [R programming coursera course](https://www.coursera.org/learn/r-programming)
-
+  * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
 
 # Step 1 - Download and install R/Rstudio
 ---
