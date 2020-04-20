@@ -47,6 +47,8 @@ Description here
 ## R scripts and "projects"
 Description here
 ## Task
+* [Download this github repository](https://github.com/EnriqueDoster/MEG_onboarding_lessons)
+* Open Rstudio and set working directory to the newly downloaded directory, "MEG_onboarding_lessons"
 * Create a new R project called "Lesson 1 project" and follow the instructions in the script (XXXX) to familiarize yourself with basic R functions.
 
 
