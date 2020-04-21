@@ -1,4 +1,4 @@
-# Preliminary ideas
+# Statistics lesson plan overview
 
 ## Lesson 1 - "Getting set up"
 * Goals:
