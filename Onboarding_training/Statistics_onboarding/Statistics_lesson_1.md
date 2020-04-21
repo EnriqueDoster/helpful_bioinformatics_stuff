@@ -36,6 +36,7 @@ To facilitate the use of R we recommend using the GUI software, [RStudio](https:
 ## Step 2 - Install R packages
 ### Packages greatly enhance R functionality for statistical analysis
 Description here
+
 ### Task
 * Learn how to install R packages with the following resource (XXXX) and succesfully install all of the following packages in your environment:
   * vegan
@@ -44,7 +45,21 @@ Description here
 
 ## Step 3 - Introduction to R programming
 ### R scripts and "projects"
-Description here
+R code can be run directly in the R terminal, or can be organized in to a series of steps within an [R script](http://mercury.webster.edu/aleshunas/R_learning_infrastructure/R%20scripts.html). R scripts facilitate reproducibility as all your code can be stored in a single file and shared for others to replicate.
+
+[RStudio projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) make it easy to organize different datasets, each with their own working directory, workspace, history, and source documents.
+* During an R session, you might define a large number of R-objects: variables, data structures, functions etc., and you might load packages and scripts.
+* All of this information is stored in the so-called "Workspace". When you quit R you have the option to save the Workspace; it will then be restored in your next session. Now, you might think: how convenient - I can just stop R, and when I restart it, it will go into the same state as it was. But no. Restoring the Workspace from a previous state is actually a bad idea: if you load data or variables in a startup script, they may be overwritten with a corrupted version that you happened to save in the workspace when you last quit. This is very hard to troubleshoot. Essentially, when you save and reload your Workspace habitually, you have overlapping and potentially conflicting behaviour of startup script and Workspace restore.
+
+* Instead, we recommend the following:
+  * Never save the Workspace.
+  * Always work from scripts.
+  * Write your scripts so that you can easily recreate all objects you need to continue your analysis.
+  * If some objects are expensive to compute, you can always save() and later load() them explicitly. In fact, restoring the Workspace does the same thing, but you have less control regarding whether the version of your objects are correct, and what temporary variables may be loaded as well.
+  * In this way, you work with explicit instructions, not implicit behaviour.
+  * Explicit beats implicit.
+
+
 
 ### Task
 * Open Rstudio and set working directory to the newly downloaded directory, "MEG_onboarding_lessons"
