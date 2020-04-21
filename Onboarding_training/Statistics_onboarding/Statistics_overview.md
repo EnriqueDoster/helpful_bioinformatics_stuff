@@ -7,6 +7,8 @@
   * Step 3: Learn how to read-in data to R and provide general information about files.
 * Resources:
   * [Installing R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+  * [R programming coursera course](https://www.coursera.org/learn/r-programming)
+  * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
 * Deliverables:
   * Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R.
   * Students must provide:
@@ -16,5 +18,5 @@
 
 ## Lesson 2 - "Basic summary statistics"
 * Goals:
-* Resources
+* Resources:
 * Deliverables:
