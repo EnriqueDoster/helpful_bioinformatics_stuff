@@ -39,3 +39,9 @@
 * Additional modules
   * Network analyses
   * Random forests
+
+
+## Additional resources
+* [LHS 610: Exploratory Data Analysis for Health](https://kdpsingh.lab.medicine.umich.edu/lhs-610)
+  * We haven't personaly tried this course, but they provide great videos and code examples for learning how to explore data using R.
+* [#bioinformatics live twitter feed](https://twitter.com/search?q=%23bioinformatics&src=hash)
