@@ -1,12 +1,12 @@
 # Lesson 1 - "Getting set up"
----
+
 ## Learning objectives
 * Describe R, RStudio, and Environment
 * Use RStudio GUI to test basic R functionality
 * Read-in data and provide basic summary information
 
 ## Tasks:
-* Step 1: Download and install R/RStudio
+* [Step 1](#step-1-install-r-and-rstudio): Download and install R/RStudio
 * Step 2: Install R packages
 * Step 3: Introduction to R
 * Step 4: Learn how to read-in data to R and provide general information about files.
@@ -23,7 +23,7 @@
 
 --- 
 
-# Step 1 - Download and install R/Rstudio
+# Step 1 - Install R and Rstudio
 ## What is R and why do we use it?
 ["R"](https://www.r-project.org/about.html) is an open-source programming language that we use for analyzing microbiome and resistome results. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques, and is highly extensible. 
 
