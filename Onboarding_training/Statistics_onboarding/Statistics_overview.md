@@ -7,11 +7,13 @@
 * We are developing these training resources for our team and we would love to get your input on improvements to any components.
   * You can either contact Enrique Doster (enriquedoster@gmail.com), or use github to submit your proposed changes directly.
 * We will work as a team to help answer each other's questions.
+
 ## Timeline 
-* [Lesson 1](#lesson-1-getting-set-up) - Start May 4, 2020
-* Lesson 2 - Start May 11, 2020
-* Lesson 3 - Start May 18, 2020
-* Lesson 4 - Start May 25, 2020
+* [Lesson 1](#lesson-1-getting-set-up)
+  * Step 1 - Start May 4, 2020
+  * Step 2 - Start May 11, 2020
+  * Step 3 - Start May 18, 2020
+  * Step 4 - Start May 25, 2020
 
 
 
