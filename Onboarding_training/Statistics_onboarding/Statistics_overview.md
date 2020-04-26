@@ -4,7 +4,7 @@
 * 4 total lessons. 
   * Multiple steps per lesson.
     * There is 1 "deliverable" per step, that needs to be sent to "meglab.metagenomics@gmail.com"
-* We will meet once per week to go over each step.
+* We'll start with "Lesson 1" and we will meet once per week to go over each step.
 * We are developing these training resources for our team and we would love to get your input on improvements to any components.
   * You can either contact Enrique Doster (enriquedoster@gmail.com), or use github to submit your proposed changes directly.
 * We will work as a team to help answer each other's questions.
