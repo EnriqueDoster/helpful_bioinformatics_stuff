@@ -15,7 +15,7 @@
 
 
 
-### Lesson 1 ["Getting set up"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md)
+# Lesson 1 ["Getting set up"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md)
 * Goals:
   * Step 1: Download and install R/RStudio
   * Step 2: Install R packages
@@ -32,7 +32,7 @@
     * A short description of what kind of samples are being analyzed
     * A short description of what the taxonomy contains and how it relates to the count table.
 
-### Lesson 2 - "Basic summary statistics"
+# Lesson 2 - "Basic summary statistics"
 * Goals:
 * Resources:
 * Deliverables:
