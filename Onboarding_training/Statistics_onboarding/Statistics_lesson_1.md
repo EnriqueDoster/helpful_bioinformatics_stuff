@@ -7,7 +7,7 @@
 
 ## Tasks:
 * [Step 1](#step-1-install-r-and-rstudio): Download and install R/RStudio
-* Step 2: Install R packages
+* [Step 2](#step-2-install-r-packages): Install R packages
 * Step 3: Introduction to R
 * Step 4: Learn how to read-in data to R and provide general information about files.
 
