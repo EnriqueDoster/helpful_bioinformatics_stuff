@@ -29,6 +29,7 @@
   * R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.
   * R is used by entering commands into the R terminal.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/R_Terminal.png/800px-R_Terminal.png" width="300" height="200" />
+  
   * While using R in this command-line format can be beneficial for certain uses, we recommend the use of Rstudio.
   * [RStudio](https://rstudio.com/) is a GUI software that facilitates the use of R by breaking up information into 4 panels.
     * Source Editor, Console, Workspace Browser (and History), and Plots (and Files, Packages, Help). These can also be adjusted under the 'Preferences' menu.
