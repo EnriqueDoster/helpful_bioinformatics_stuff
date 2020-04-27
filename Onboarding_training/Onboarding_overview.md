@@ -45,3 +45,5 @@
   * We haven't personaly tried this course, but they provide great videos and code examples for learning how to explore data using R.
 * [#bioinformatics live twitter feed](https://twitter.com/search?q=%23bioinformatics&src=hash)
 
+# Literature to consider
+* [Microbiome Multi-Omics Network Analysis: Statistical Considerations, Limitations, and Opportunities](Microbiome Multi-Omics Network Analysis: Statistical Considerations, Limitations, and Opportunities)
