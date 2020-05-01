@@ -124,7 +124,7 @@ getwd():
 4. Select File → NewProject…
 5. Click on Version Control.
 6. Click on Git.
-7. Enter https://github.com/EnriqueDoster/MEG_onboarding_lessons as the Repository URL
+7. Enter "https://github.com/EnriqueDoster/MEG_training_tutorials" as the Repository URL
 8. The project directory name should automatically fill out, or you could change it to anything else you want.
 9. Click on Browse… to find where you want the project to be created.
 10. Click Open.
