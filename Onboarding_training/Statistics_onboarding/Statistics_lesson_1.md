@@ -1,25 +1,23 @@
 # Lesson 1 - "Getting set up"
 
 ## Learning objectives
-* Describe R, RStudio, and Environment
-* Use RStudio GUI to test basic R functionality
+* Describe R, RStudio, and environment
+* Use RStudio to test basic R functionality
 * Read-in data and provide basic summary information
 
 ## Tasks:
+There are 4 steps that we will break up 
 * [Step 1](#step-1---install-r-and-rstudio): Download and install R/RStudio
 * [Step 2](#step-2---install-r-packages): Install R packages
 * Step 3: Introduction to R
 * Step 4: Learn how to read-in data to R and provide general information about files.
 
-## Deliverables:
-* Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R and submit an email with:
-  * The number of rows and columns for each file
-  * A short description of what kind of samples are being analyzed
-  * A short description of what the taxonomy file contains and how it relates to the count table.
 
 ## Additional resources:
   * [R programming coursera course](https://www.coursera.org/learn/r-programming)
   * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
+  * [R cheat sheets](https://rstudio.com/resources/cheatsheets/)
+  
 
 --- 
 
@@ -144,11 +142,11 @@ getwd():
 ### Getting microbiome and resistome results into R
 
 ### Task
-* Download the following three files:
-  * sample_metadata.csv
-  * AMR_annotations.csv
-  * AMR_count_matrix.csv
+
 * Follow instructions in the R script, (XXXX), to load all three files and calculate summary statistics for each file.
-* Turn in file with results.
+* Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R and submit an email with the following information:
+  * The number of rows and columns for each file.
+  * A short description of what kind of samples are being analyzed.
+  * A short description of what the taxonomy file contains and how it relates to the count table.
 
 
