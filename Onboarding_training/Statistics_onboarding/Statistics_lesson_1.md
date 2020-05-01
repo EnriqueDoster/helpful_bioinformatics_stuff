@@ -6,7 +6,7 @@
 * Read-in data and provide basic summary information
 
 ## Tasks:
-There are 4 steps that we will break up 
+We will break up this lesson into 4 steps. We'll meet once a week to discuss each step and students will independently work on the "task" and associated "deliverable" that must be sent to meglab.metagenomics@gmail.com.
 * [Step 1](#step-1---install-r-and-rstudio): Download and install R/RStudio
 * [Step 2](#step-2---install-r-packages): Install R packages
 * Step 3: Introduction to R
@@ -24,7 +24,7 @@ There are 4 steps that we will break up
 # Step 1 - Install R and Rstudio
 ### What is R and why do we use it?
 ["R"](https://www.r-project.org/about.html) is an open-source programming language that we use for analyzing microbiome and resistome results. R is highly extensible and provides access to a variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques. 
-  * R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.
+  * R is available as free software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.
   * R is used by entering commands into the R terminal.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/R_Terminal.png/800px-R_Terminal.png" width="300" height="200" />
   
@@ -33,7 +33,7 @@ There are 4 steps that we will break up
     * Source Editor, Console, Workspace Browser (and History), and Plots (and Files, Packages, Help). These can also be adjusted under the 'Preferences' menu.
 <img src="https://sfg-ucsb.github.io/fishery-manageR/images/rstudio_ide.png" width="400" height="300" />  
 
-Asking for help with R.
+#### Asking for help with R.
 * If you find that you can’t answer a question or solve a problem yourself, you can ask others for help, either locally (if you know someone who is knowledgeable about R) or on the internet. In order to ask a question effectively, it helps to phrase the question clearly, and, if you’re trying to solve a problem, to include a small, self-contained, reproducible example of the problem that others can execute. 
  * For information on how to ask R-related questions, see:
    * The [R mailing list posting guide](https://www.r-project.org/posting-guide.html)
@@ -45,8 +45,8 @@ Asking for help with R.
 * Explore these websites for troubleshooting errors with R.
   * [R mailing list](https://www.r-project.org/mail.html)
   * [Stack overflow](https://stackoverflow.com/questions/tagged/r)
-### Step 1 deliverable
-* Using RStudio, run the following command and send a screenshot to "meglab.metagenomics@gmail.com"
+### Step 1) Deliverable
+* Using RStudio, run the command below and send a screenshot to "meglab.metagenomics@gmail.com"
 ```
 sessionInfo()
 ```
@@ -86,7 +86,7 @@ In the task for Step 2, we'll install all of the R packages that are relevant to
   * From Bioconductor (try to install these, but move on if you are getting errors):
     * phyloseq
     * metagenomeSeq
-### Step 2 deliverable
+### Step 2) Deliverable
 * Just like in Step 1, run "sessionInfo()" and send a screenshot to "meglab.metagenomics@gmail.com"
 
 
@@ -135,7 +135,7 @@ getwd():
   * Open the "Lesson1_R_introduction.R" script by clicking on it.
   * Follow instructions on the script to get familiarized with R. 
 
-### Step 3 deliverable
+### Step 3) Deliverable
 * Answer the questions for ["Lesson1-Assignment1_IntrotoRandRStudio.docx"](https://github.com/EnriqueDoster/MEG_onboarding_lessons/blob/master/Statistics/Lesson1-Assignment1_IntrotoRandRStudio.docx) and submit the answers to meglab.metagenomics@gmail.com
 
 # Step 4 - Reading-in data
