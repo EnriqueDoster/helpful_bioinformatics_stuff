@@ -27,12 +27,11 @@
   * Plot distribution of counts, phred scores, diversity indices.
     * Create stacked bar charts
     * Boxplots
-  * ?Learn to run R GUI code for exploratory figures
+  * Statistical comparison of diversity indices?
+  * Learn to run R GUI code for exploratory figures
 * Level 3 - Intermediate
   * Count normalization
   * Aggregating counts
-  * Statistical comparison of diversity indices?
-* Level 4 - Advanced
   * Ordination and ANOSIM testing
   * Differential abundance testing with Zero-inflated Gaussian (ZIG) model
   * Advanced plotting (heatmaps, volcano plots, ordination)
