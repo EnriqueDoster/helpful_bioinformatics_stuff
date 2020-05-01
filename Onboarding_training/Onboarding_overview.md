@@ -24,10 +24,11 @@
 * Level 2 - Beginner
   * Diversity indices
   * Basic summary statistics
-  * Create stacked bar charts
+  * Plot distribution of counts, phred scores, diversity indices.
+    * Create stacked bar charts
+    * Boxplots
   * ?Learn to run R GUI code for exploratory figures
 * Level 3 - Intermediate
-  * Plot distribution of counts, phred scores, diversity indices.
   * Count normalization
   * Aggregating counts
   * Statistical comparison of diversity indices?
