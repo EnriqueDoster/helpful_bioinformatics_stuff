@@ -9,8 +9,8 @@
 We will break up this lesson into 4 steps. We'll meet once a week to discuss each step and students will independently work on the "task" and associated "deliverable" that must be sent to meglab.metagenomics@gmail.com.
 * [Step 1](#step-1---install-r-and-rstudio): Download and install R/RStudio
 * [Step 2](#step-2---install-r-packages): Install R packages
-* Step 3: Introduction to R
-* Step 4: Learn how to read-in data to R and provide general information about files.
+* [Step 3](#step-3---introduction-to-r-programming): Introduction to R
+* [Step 4](#step-4---reading-in-data): Learn how to read-in data to R and provide general information about files.
 
 
 ## Additional resources:
