@@ -1,6 +1,8 @@
 # Statistics lesson 1 syllabus
 Start Date: May 11, 2020
+
 Email: meglab.metagenomics@gmail.com
+
 Slack group: microbialecol-1s68204.slack.com
 
 ### Summary
