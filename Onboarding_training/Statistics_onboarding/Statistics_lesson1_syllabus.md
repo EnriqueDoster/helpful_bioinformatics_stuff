@@ -19,7 +19,7 @@ Upon completion of the lesson, students will:
     * This free coursera course goes in-depth with all of the functionality of R. It combines videos with example R scripts for you to follow along with. We recommend this course after you have been playing around with R a bit and want to learn more about the details into how R works.
   * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
 
-# Lesson 1 ["Getting set up"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) timeline
+# [Lesson 1 "Getting set up"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) timeline
 * Step 1: Download and install R/RStudio
   * Start May 11, 2020
 * Step 2: Install R packages
@@ -29,8 +29,6 @@ Upon completion of the lesson, students will:
 * Step 4: Learn how to read-in data to R and provide general information about files.
   * Start June 1, 2020
 
-
-  
 
 # Deliverables:
 For each of the 4 steps in lesson 1, students have to submit
