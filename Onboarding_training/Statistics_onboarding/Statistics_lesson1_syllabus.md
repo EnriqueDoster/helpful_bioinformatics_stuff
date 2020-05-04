@@ -36,8 +36,8 @@ Upon completion of the lesson, students will:
 
 # Deliverables:
 * For Step 1 and 2, students must send a screenshot of their "sessionInfo()" to ensure that R and R studio are installed in addition to the necessary R packages, respectively.
-  * Step 3 - After familiarizing themselves with some basic R functionality, students will submit a short quiz.
-  * Step 4 - Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R and provide:
-    * The number of rows and columns for each file
-    * A short description of what kind of samples are being analyzed
-    * A short description of what the taxonomy contains and how it relates to the count table.
+* Step 3 - After familiarizing themselves with some basic R functionality, students will submit a short quiz.
+* Step 4 - Given a count matrix file, taxonomy file, and sample metadata file, students must read-in all data to R and provide:
+  * The number of rows and columns for each file
+  * A short description of what kind of samples are being analyzed
+  * A short description of what the taxonomy contains and how it relates to the count table.
