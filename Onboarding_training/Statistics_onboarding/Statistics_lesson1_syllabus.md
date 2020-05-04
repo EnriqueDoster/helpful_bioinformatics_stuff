@@ -4,13 +4,13 @@ This lesson is designed to introduce researchers to the R statistical language f
 ```
 microbialecol-1s68204.slack.com
 ```
-* We'll start with [Lesson 1- Getting set-up](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) and we'll have a virtual meeting once per week for 30 minutes to go over each of the 4 steps.
+* We'll start with [Lesson 1- Getting set-up](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) and we'll have a virtual meeting once per week for 30 minutes to go over each of the 4 steps. The majority of the work will be self-directed and on your own time, but we encourage you to work in groups and participate in asking questions in the slack group. If you don't have any questions and find this all extremely easy, please help others with their questions and help us improve our tutorial.
   * There is 1 "deliverable" per step. Some steps require something be sent to "meglab.metagenomics@gmail.com" or will have a link to a corresponding set of questions.
 
 
-### Learning objectives
+### Learning objectives:
 Upon completion of the lesson, students will:
-* have their computer set up with the R software
+* have their computer set up with the R and RStudio software
 * know how to read-in count matrices from bioinformatic analysis of sequence data
 * be able to explore and summarize bioinformatic results
 
