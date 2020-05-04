@@ -1,7 +1,9 @@
 # Statistics lesson 1 syllabus
 ### Summary
 This lesson is designed to introduce researchers to the R statistical language for statistical analysis of microbiome and resistome results. The focus of lesson 1 is to help students install R on their computer, install the necessary R packages, and start playing around with R's functionality. While we are primarily developing these training resources for the Microbial Ecology Group, we would love to get your input on improvements to any components so that we can one day provide this as a public resource. This will be the first time that we attempt going through this lesson with a group of students, so please participate in the slack group and ask any questions you have!
-  * microbialecol-1s68204.slack.com
+```
+microbialecol-1s68204.slack.com
+```
 * We'll start with [Lesson 1- Getting set-up](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) and we'll have a virtual meeting once per week for 30 minutes to go over each of the 4 steps.
   * There is 1 "deliverable" per step. Some steps require something be sent to "meglab.metagenomics@gmail.com" or will have a link to a corresponding set of questions.
 
