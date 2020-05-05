@@ -1,4 +1,5 @@
-# Microbial Ecology Group's statistics training syllabus
+# Introduction to statistical analysis of metagenomic sequencing data
+# Course syllabus
 Start Date: May 11, 2020
 
 Email: meglab.metagenomics@gmail.com
