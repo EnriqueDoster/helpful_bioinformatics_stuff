@@ -17,24 +17,24 @@
   * Third Quest: Finish your quest by documenting the whole story into a pipeline
 
 # [Statistics onboarding](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_overview.md)
-* [Level 1](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) - Core requirements
-  * Describe R, RStudio, and Environment
-  * Use RStudio GUI to test basic R functionality
-  * Read-in data and provide basic summary information
-* Level 2 - Beginner
-  * Diversity indices
-  * Basic summary statistics
-  * Plot distribution of counts, phred scores, diversity indices.
-    * Create stacked bar charts
-    * Boxplots
-  * Statistical comparison of diversity indices?
-  * Learn to run R GUI code for exploratory figures
-* Level 3 - Intermediate
-  * Count normalization
-  * Aggregating counts
-  * Ordination and ANOSIM testing
-  * Differential abundance testing with Zero-inflated Gaussian (ZIG) model
-  * Advanced plotting (heatmaps, volcano plots, ordination)
+* [Lesson 1](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) - Getting set-up with R
+  * Step 1 - Download and install R/RStudio
+  * Step 2 - Install R packages
+  * Step 3 - Explore basic R functionality.
+  * Step 4 - Learn how to read-in data to R and provide general information about files.
+* Lesson 2 - Data exploration and basic statistics
+  * Step 1 - Calculating summary statistics
+    * Alpha diversity indices
+    * count summaries (e.g. sum, mean, etc)
+  * Step 2 - Count aggregation by taxa
+  * Step 3 - Introduction to plotting
+  * Step 4 - Basic statistical testing (wilcoxon, linear models)
+* Lesson 3 - Advanced statistical analyses and plotting
+  * Step 1 - Count normalization
+  * Step 2 - Learn to run R GUI code for exploratory figures
+  * Step 3 - Ordination with non-metric multidimensional (NMDS) and statistical comparisons
+  * Step 4 - Differential abundance testing with Zero-inflated Gaussian (ZIG) model
+  * Step 5 - Advanced plotting (heatmaps, volcano plots, ordination)
 * Additional modules
   * Network analyses
   * Random forests
