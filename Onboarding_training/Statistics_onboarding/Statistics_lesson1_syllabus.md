@@ -64,8 +64,10 @@ Lesson 1 deliverables
   * The number of rows and columns for each file
   * A short description of what kind of samples are being analyzed
   * A short description of what the taxonomy contains and how it relates to the count table.
+
 Lesson 2 deliverables
 * TBD
+
 Lesson 3 deliverables
 * TBD
 
