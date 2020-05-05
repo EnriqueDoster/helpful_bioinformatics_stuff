@@ -39,7 +39,7 @@ Upon completion of these lessons, students will:
 
 
 ## Timeline
-* [Lesson 1 "Getting set-up with R"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) timeline
+* [Lesson 1 "Getting set-up with R"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md)
   * Step 1 - Download and install R/RStudio
     * Start: May 11, 2020 
     * End: May 17, 2020
