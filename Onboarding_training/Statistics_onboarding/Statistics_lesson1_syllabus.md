@@ -39,22 +39,22 @@ Upon completion of these lessons, students will:
 
 ## Timeline
 * [Lesson 1 "Getting set up"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) timeline
- * Step 1 - Download and install R/RStudio
-   * Start: May 11, 2020 
-   * End: May 17, 2020
- * Step 2 - Install R packages
-   * Start: May 18, 2020
-   * End: May 24, 2020
- * Step 3 - Explore basic R functionality.
-   * Start: May 25, 2020
-   * End: May 31, 2020
- * Step 4 - Learn how to read-in data to R and provide general information about files.
-   * Start: June 1, 2020
-   * End: June 7, 2020
-* Lesson 2 - Intermediate statistical analyses
-  * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
-* Lesson 3 - Advanced statistical analyses and plotting
-  * Scheduled to begin June 29, 2020. Dates will be updated as we finalize scheduling.
+  * Step 1 - Download and install R/RStudio
+    * Start: May 11, 2020 
+    * End: May 17, 2020
+  * Step 2 - Install R packages
+    * Start: May 18, 2020
+    * End: May 24, 2020
+  * Step 3 - Explore basic R functionality.
+    * Start: May 25, 2020
+    * End: May 31, 2020
+  * Step 4 - Learn how to read-in data to R and provide general information about files.
+    * Start: June 1, 2020
+    * End: June 7, 2020
+ * Lesson 2 - Intermediate statistical analyses
+   * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
+ * Lesson 3 - Advanced statistical analyses and plotting
+   * Scheduled to begin June 29, 2020. Dates will be updated as we finalize scheduling.
 
 # Deliverables:
 Lesson 1 deliverables
