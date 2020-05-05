@@ -52,6 +52,7 @@ Upon completion of these lessons, students will:
 * Step 4 - Learn how to read-in data to R and provide general information about files.
   * Start: June 1, 2020
   * End: June 7, 2020
+
 Lesson 2 - Data exploration and basic statistics
 * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
 * Step 1 - Calculating summary statistics
@@ -60,6 +61,7 @@ Lesson 2 - Data exploration and basic statistics
 * Step 2 - Count aggregation by taxa
 * Step 3 - Introduction to plotting
 * Step 4 - Basic statistical testing (wilcoxon, linear models)
+
 Lesson 3 - Advanced statistical analyses and plotting
 * Scheduled to begin July 6, 2020. Dates will be updated as we finalize scheduling.
 * Step 1 - Count normalization
