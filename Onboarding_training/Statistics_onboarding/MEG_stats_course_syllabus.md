@@ -1,9 +1,7 @@
 # Introduction to statistical analysis of metagenomic sequencing data
-# Course syllabus
+## Course syllabus
 Start Date: May 11, 2020
-
 Email: meglab.metagenomics@gmail.com
-
 Slack group: microbialecol-1s68204.slack.com
 
 ### Summary
@@ -39,7 +37,7 @@ Upon completion of these lessons, students will:
 
 
 ## Timeline
-* [Lesson 1 "Getting set up"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) timeline
+* [Lesson 1 "Getting set-up with R"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md) timeline
   * Step 1 - Download and install R/RStudio
     * Start: May 11, 2020 
     * End: May 17, 2020
@@ -52,10 +50,23 @@ Upon completion of these lessons, students will:
   * Step 4 - Learn how to read-in data to R and provide general information about files.
     * Start: June 1, 2020
     * End: June 7, 2020
- * Lesson 2 - Intermediate statistical analyses
-   * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
- * Lesson 3 - Advanced statistical analyses and plotting
-   * Scheduled to begin June 29, 2020. Dates will be updated as we finalize scheduling.
+ * Lesson 2 - Data exploration and basic statistics
+  * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
+  * Step 1 - Calculating summary statistics
+    * Alpha diversity indices
+    * count summaries (e.g. sum, mean, etc)
+  * Step 2 - Count aggregation by taxa
+  * Step 3 - Introduction to plotting
+  * Step 4 - Basic statistical testing (wilcoxon, linear models)
+* Lesson 3 - Advanced statistical analyses and plotting
+  * Scheduled to begin July 6, 2020. Dates will be updated as we finalize scheduling.
+  * Step 1 - Count normalization
+  * Step 2 - Learn to run R GUI code for exploratory figures
+  * Step 3 - Ordination with non-metric multidimensional (NMDS) and statistical comparisons
+  * Step 4 - Differential abundance testing with Zero-inflated Gaussian (ZIG) model
+  * Step 5 - Advanced plotting (heatmaps, volcano plots, ordination)
+   
+   
 
 # Deliverables:
 Lesson 1 deliverables
