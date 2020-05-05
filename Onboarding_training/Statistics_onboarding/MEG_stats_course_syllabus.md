@@ -1,11 +1,13 @@
 # Introduction to statistical analysis of metagenomic sequencing data
 ## Course syllabus
 Start Date: May 11, 2020
+
 Email: meglab.metagenomics@gmail.com
+
 Slack group: microbialecol-1s68204.slack.com
 
 ### Summary
-These statistics lessons are designed to introduce researchers to the R statistical language for statistical analysis of microbiome and resistome results. The focus of lesson 1 is to help students install R on their computer, install the necessary R packages, and start playing around with R's functionality. In Lesson 2, students will learn how to calculate and plot diversity indices to summarize the microbiome and resistome. In Lesson 3, we'll dive into count normalization using cumulative sum scaling (CSS), ordination with non-metric multidimensional scaling, differential abundance testing with a zero-inflated Gaussian (ZIG) model, and advanced plotting using gglot2.
+These statistics lessons are designed to introduce researchers to the R statistical language for statistical analysis of microbiome and resistome results. The focus of lesson 1 is to help students install R on their computer, install the necessary R packages, and start playing around with R's functionality. In Lesson 2, students will learn how to calculate and plot summary statistics, including alpha-diversity indices to summarize the microbiome and resistome. In Lesson 3, we'll dive into count normalization using cumulative sum scaling (CSS), ordination with non-metric multidimensional scaling, differential abundance testing with a zero-inflated Gaussian (ZIG) model, and advanced plotting using gglot2.
 
 While we are primarily developing these training resources for the Microbial Ecology Group, we would love to get your input on improvements to any components so that we can one day provide this as a public resource. This will be the first time that we attempt going through this lesson with a group of students, so please participate in the slack group and ask any questions you have!
 * We'll organize a group to all take the same lesson together and we'll have a virtual meeting once per week for 30 minutes to go over each of the steps in that lesson. The majority of the work will be self-directed and on your own time, but we encourage you to work in groups and participate in asking questions in the slack group. If you don't have any questions and find this all extremely easy, please help others with their questions and help us improve our tutorial.
