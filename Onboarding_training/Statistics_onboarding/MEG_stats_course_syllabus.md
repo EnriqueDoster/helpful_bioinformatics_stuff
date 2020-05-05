@@ -29,13 +29,13 @@ Upon completion of these lessons, students will:
   * Differential abundance testing using a zero-inflated Gaussian (ZIG) model
 
 ### Resources:
-  * [Installing R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
-  * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
-    * This is a free online book that goes over many useful topics in a quirky, but fun way! Follow along with our simplified R scripts in Lesson 1 and reference this book if you have any other questions.
-  * [R programming coursera course](https://www.coursera.org/learn/r-programming)
-    * This free coursera course goes in-depth with all of the functionality of R. It combines videos with example R scripts for you to follow along with. We recommend this course after you have been playing around with R a bit and want to learn more about the details into how R works.
-  * [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
-  * [GUide to STatistical Analysis in Microbial Ecology (GUSTA ME](https://mb3is.megx.net/gustame)
+* [Installing R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+* [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+  * This is a free online book that goes over many useful topics in a quirky, but fun way! Follow along with our simplified R scripts in Lesson 1 and reference this book if you have any other questions.
+* [R programming coursera course](https://www.coursera.org/learn/r-programming)
+  * This free coursera course goes in-depth with all of the functionality of R. It combines videos with example R scripts for you to follow along with. We recommend this course after you have been playing around with R a bit and want to learn more about the details into how R works.
+* [Introduction to R workshop](https://bioinformatics.ca/workshops/2018-introduction-to-R/)
+* [GUide to STatistical Analysis in Microbial Ecology (GUSTA ME](https://mb3is.megx.net/gustame)
 
 
 ## Timeline
@@ -52,7 +52,7 @@ Upon completion of these lessons, students will:
   * Step 4 - Learn how to read-in data to R and provide general information about files.
     * Start: June 1, 2020
     * End: June 7, 2020
- * Lesson 2 - Data exploration and basic statistics
+* Lesson 2 - Data exploration and basic statistics
   * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
   * Step 1 - Calculating summary statistics
     * Alpha diversity indices
