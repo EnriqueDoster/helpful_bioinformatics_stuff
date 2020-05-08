@@ -42,22 +42,22 @@ Upon completion of these lessons, students will:
 [Lesson 1 "Getting set-up with R"](https://github.com/EnriqueDoster/Bioinformatic_resources/blob/master/Onboarding_training/Statistics_onboarding/Statistics_lesson_1.md)
 * Step 1 - Download and install R/RStudio
   * Start: May 11, 2020 
-  * End: May 17, 2020
+  * Requested completion: May 17, 2020
 * Step 2 - Install R packages
   * Start: May 18, 2020
-  * End: May 24, 2020
+  * Requested completion: May 24, 2020
 * Step 3 - Explore basic R functionality.
   * Start: May 25, 2020
-  * End: May 31, 2020
+  * Requested completion: May 31, 2020
 * Step 4 - Learn how to read-in data to R and provide general information about files.
   * Start: June 1, 2020
-  * End: June 7, 2020
+  * Requested completion: June 7, 2020
 
 Lesson 2 - Data exploration and basic statistics
 * Scheduled to begin June 8, 2020. Dates will be updated as we finalize scheduling.
 * Step 1 - Calculating summary statistics
   * Alpha diversity indices
-  * count summaries (e.g. sum, mean, etc)
+  * count summaries (e.g. mean, standard deviation, etc)
 * Step 2 - Count aggregation by taxa
 * Step 3 - Introduction to plotting
 * Step 4 - Basic statistical testing (wilcoxon, linear models)
