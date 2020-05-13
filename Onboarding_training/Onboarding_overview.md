@@ -30,10 +30,10 @@
   * Step 3 - Introduction to plotting
   * Step 4 - Basic statistical testing (wilcoxon, linear models)
 * Lesson 3 - Advanced statistical analyses and plotting
-  * Step 1 - Count normalization
+  * Step 1 - Count normalization (Noelle)
   * Step 2 - Learn to run R GUI code for exploratory figures
-  * Step 3 - Ordination with non-metric multidimensional (NMDS) and statistical comparisons
-  * Step 4 - Differential abundance testing with Zero-inflated Gaussian (ZIG) model
+  * Step 3 - Ordination with non-metric multidimensional (NMDS) and statistical comparisons (Noelle)
+  * Step 4 - Differential abundance testing with Zero-inflated Gaussian (ZIG) model (Noelle)
   * Step 5 - Advanced plotting (heatmaps, volcano plots, ordination)
 * Additional modules
   * Network analyses
