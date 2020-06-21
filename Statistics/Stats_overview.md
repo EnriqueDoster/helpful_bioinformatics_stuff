@@ -1,13 +1,5 @@
-Statistics resources
-* [GUide to STatistical Analysis in Microbial Ecology (GUSTA ME)](https://mb3is.megx.net/gustame)
-* [LHS 610: Exploratory Data Analysis for Health](https://kdpsingh.lab.medicine.umich.edu/lhs-610)
-  * We haven't personally tried this course, but they provide great videos and code examples for learning how to explore data using R.
-* [#bioinformatics live twitter feed](https://twitter.com/search?q=%23bioinformatics&src=hash)
-* [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/76-add-p-values-and-significance-levels-to-ggplots/)
-  * Nice package for "publication-ready" figures.
-* [Harvard's Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
-* [Collaborative spreadsheet of resources](https://docs.google.com/document/d/1A9BbOCsrg1ikLaBltKhXVKj-eetlrBqR-1u-2V99I2c/edit#)
-* [Choose the right test](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+# Statistics overview
+
 
 
 
@@ -169,5 +161,29 @@ The Kruskal Wallis test is used when you have one independent variable with two 
 ## Paired t-test
 A paired (samples) t-test is used when you have two related observations (i.e., two observations per subject) and you want to see if the means on these two normally distributed interval variables differ from one another. 
 
+## Wilcoxon signed rank sum test
+The Wilcoxon signed rank sum test is the non-parametric version of a paired samples t-test.  You use the Wilcoxon signed rank sum test when you do not wish to assume that the difference between the two variables is interval and normally distributed (but you do assume the difference is ordinal). 
+
+## McNemar test
+You would perform McNemar’s test if you were interested in the marginal frequencies of two binary outcomes. These binary outcomes may be the same outcome variable on matched pairs (like a case-control study) or two outcome variables from a single group.
+
+## One-way repeated measures ANOVA
+You would perform a one-way repeated measures analysis of variance if you had one categorical independent variable and a normally distributed interval dependent variable that was repeated at least twice for each subject.  This is the equivalent of the paired samples t-test, but allows for two or more levels of the categorical variable. This tests whether the mean of the dependent variable differs by the categorical variable. 
+
+## Repeated measures logistic regression
+If you have a binary outcome measured repeatedly for each subject and you wish to run a logistic regression that accounts for the effect of multiple measures from single subjects, you can perform a repeated measures logistic regression.
 
 
+---
+
+# Resources
+
+* [GUide to STatistical Analysis in Microbial Ecology (GUSTA ME)](https://mb3is.megx.net/gustame)
+* [LHS 610: Exploratory Data Analysis for Health](https://kdpsingh.lab.medicine.umich.edu/lhs-610)
+  * We haven't personally tried this course, but they provide great videos and code examples for learning how to explore data using R.
+* [#bioinformatics live twitter feed](https://twitter.com/search?q=%23bioinformatics&src=hash)
+* [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/76-add-p-values-and-significance-levels-to-ggplots/)
+  * Nice package for "publication-ready" figures.
+* [Harvard's Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
+* [Collaborative spreadsheet of resources](https://docs.google.com/document/d/1A9BbOCsrg1ikLaBltKhXVKj-eetlrBqR-1u-2V99I2c/edit#)
+* [Choose the right test](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
