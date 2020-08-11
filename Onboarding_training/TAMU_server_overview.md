@@ -1,8 +1,8 @@
 # TAMU server use SOP
 
 # Table of contents
-* Computing servers
-* Example AMR++ run
+* [Computing servers](#computing-servers)
+* [Example AMR++ run](#example-amr++-run)
 
 
 # Computing servers
